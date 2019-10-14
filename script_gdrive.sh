@@ -12,7 +12,7 @@ download(){
 	./gdrive-linux-386 download --recursive $1
 }
 
-
+echo "Linijka dodana w BBS2 w termianlu"
 
 echo "Witaj w Google Drive"
 echo "Co chcesz zrobić ?"
