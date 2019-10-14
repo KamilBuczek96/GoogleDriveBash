@@ -13,7 +13,7 @@ download(){
 }
 
 
-
+echo "Linijka dodana w BSS2 w idea"
 echo "Witaj w Google Drive"
 echo "Co chcesz zrobić ?"
 echo ""
