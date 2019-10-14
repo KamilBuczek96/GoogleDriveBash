@@ -13,7 +13,7 @@ download(){
 }
 
 
-
+ech "dodałem napis jecha"
 echo "Witaj w Google Drive"
 echo "Co chcesz zrobić ?"
 echo ""
