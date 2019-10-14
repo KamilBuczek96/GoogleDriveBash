@@ -12,8 +12,8 @@ download(){
 	./gdrive-linux-386 download --recursive $1
 }
 
-
-ech "dodałem napis jecha"
+echo "dodałem jeszcze jakies inne"
+echo "dodałem napis jecha"
 echo "Witaj w Google Drive"
 echo "Co chcesz zrobić ?"
 echo ""
