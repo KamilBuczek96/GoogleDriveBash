@@ -16,7 +16,7 @@ download(){
 echo "Linijka dodana w BBS2 w termianlu"
 
 =======
-
+ehco "Dodano dla feature/BSS2.1"
 echo "Linijka dodana w BSS2 w idea"
 >>>>>>> ce45780a09dd06ef719952c5272bb6f5405ac72d
 echo "Witaj w Google Drive"
